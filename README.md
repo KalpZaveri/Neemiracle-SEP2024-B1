@@ -12,3 +12,5 @@ Pages of application
 7. Cart
 8. Payment
 9. Success
+
+Prototype demo : https://www.figma.com/proto/Sdu7mBeYSVDd7Oc7EAoNNC/Restaurant-Menu?node-id=0-1&t=PPOWJv44RPlX36Vi-1
