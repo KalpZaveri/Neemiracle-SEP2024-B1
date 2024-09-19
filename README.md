@@ -13,4 +13,5 @@ Pages of application
 8. Payment
 9. Success
 
+Figma file : https://www.figma.com/design/Sdu7mBeYSVDd7Oc7EAoNNC/Restaurant-Menu?node-id=0-1&t=tXtR5jZcKwybGrJv-1
 Prototype demo : https://www.figma.com/proto/Sdu7mBeYSVDd7Oc7EAoNNC/Restaurant-Menu?node-id=0-1&t=PPOWJv44RPlX36Vi-1
